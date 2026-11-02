@@ -7,7 +7,7 @@ Engineering repository documenting practical data analysis, complex SQL queries,
 
 ---
 
-## 📊 Modules & Case Studies
+##  Modules & Case Studies
 
 | Project | Tooling | Focus Area | Deliverable |
 | :--- | :--- | :--- | :--- |
